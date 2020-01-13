@@ -1,0 +1,12 @@
+#Deck 1a
+ m n p q
+a e i o u
+r s t v
+#Deck 2b
+b c d f
+a e i o u
+g h j k
+#Deck 3cc
+st- sp- tr- br-
+a e i o u
+w t g v
