@@ -1,16 +1,128 @@
-#Deck 1a
- m n p q
-a e i o u
-r s t v
-#Deck 2b
-b c d f
-a e i o u
-g h j k
-#Deck 3cc
-st- sp- tr- br-
-a e i o u
-w t g v
-#kathi's deck
-a f g h sd gh h d hg d d gh kjk f d fg h d hg 
-gf fd f dfd gfd ghf ghf fhf 
-fdf f gf gf hgf h h h hg gh ghh gh 
+#Concepts 1-4 c (cat) o (octopus) a (apple)  d (dog)
+c d
+o a
+c d
+#Concept 5 g (go)
+c d g
+o a
+c d g
+#Concept  6  m (moon)
+c d g m
+o a
+c d g m
+#Concept  7  l (log)
+c d g m l
+o a
+c d g m l
+#Concept 8 h (hat)
+c d g m l h
+o a
+c d g m l 
+#Concept 9 t (turtle)
+c d g m l h t
+o a
+c d g m l  t
+# Concept 10 i (igloo)
+c d g m l h t
+o a i
+c d g m l  t
+#Concept 11 j (jug)
+c d g m l h t j
+o a i
+c d g m l  t
+#Concept 12 k (kettle)
+c d g m l h t j k
+o a i
+c d g m l  t
+# Concept 13 p (pig)
+c d g m l h t j k p
+o a i
+c d g m l  t p
+#Concept 14 ch (chair)
+c d g m l  t j k p ch
+o a i
+c d g m l h t p
+#Concept 15 u (umbrella)
+c d g m l h t j k p ch
+o a i u
+c d g m l  t p
+ #Concept 16 b (bat)
+c d g m l h t j k p ch b
+o a i u
+c d g m l  t p b
+#Concept 17 r (rabbit)
+c d g m l h t j k p ch b r
+o a i u
+c d g m l  t p b
+#Concept 18 f (fish)
+c d g m l h t j k p ch b r f
+o a i u
+c d g m l  t p b f
+#Concept 19 n (nail)
+c d g m l h t j k p ch b r f n
+o a i u
+c d g m l  t p b f n
+#Concept 20 e (elephant)
+c d g m l h t j k p ch b r f n
+o a i u e
+c d g m l  t p b f n
+#Concept 21 s (sun)
+c d g m l h t j k p ch b r f n s
+o a i u e
+c d g m l  t p b f n s
+#Concept 22 sh (shoe)
+c d g m l h t j k p ch b r f n s sh
+o a i u e
+c d g m l  t p b f n s sh
+#Concepts 23 th voiced (that) and 30 th unvoiced (thumb)
+c d g m l h t j k p ch b r f n s sh th
+o a i u e
+c d g m l  t p b f n s sh th
+#Concept 24 w (wag)
+c d g m l h t j k p ch b r f n s sh th w
+o a i u e
+c d g m l  t p b f n s sh th
+#Concept 25 wh (whatle)
+c d g m l h t j k p ch b r f n s sh th w wh
+o a i u e
+c d g m l  t p b f n s sh th
+#Concept 26 y (yarn)
+c d g m l h t j k p ch b r f n s sh th w wh y
+o a i u e
+c d g m l  t p b f n s sh th
+#Concept 27 v (vase)
+c d g m l h t j k p ch b r f n s sh th w wh y v
+o a i u e
+c d g m l  t p b f n s sh th 
+#Concept 28 x (box)
+c d g m l h t j k p ch b r f n s sh th w wh y v
+o a i u e
+c d g m l  t p b f n s sh th x
+#Concept 29 z (zebra)
+c d g m l h t j k p ch b r f n s sh th w wh y v z
+o a i u e
+c d g m l  t p b f n s sh th x z
+#Concept 31 qu (queen)
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu
+o a i u e
+c d g m l  t p b f n s sh th x z
+#Concept 32 Spelling Rule ff ll ss zz
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu
+o a i u e
+c d g m l  t p b f n s sh th x z ff ll ss zz
+#Concept  33 Beginning Consonant Blends: r-blends
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr
+o a i u e
+c d g m l  t p b f n s sh th x z ff ll ss zz
+#Concept 34 Beginning Consonant Blends: l-blends
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl 
+o a i u e
+c d g m l  t p b f n s sh th x z ff ll ss zz
+#Concept 35 Beginning Consonant Blends: s-blends
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ
+o a i u e
+c d g m l  t p b f n s sh th x z ff ll ss zz
+#Concept 36 Beginning Consonant Blends: w blends
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw
+o a i u e
+c d g m l  t p b f n s sh th x z ff ll ss zz
