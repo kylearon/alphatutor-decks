@@ -126,3 +126,127 @@ c d g m l  t p b f n s sh th x z ff ll ss zz
 c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw
 o a i u e
 c d g m l  t p b f n s sh th x z ff ll ss zz
+#Concept 37 Ending Consonant Blends: t blends
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw
+o a i u e
+c d g m l  t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt
+#Concept 38 Ending Consonant Blends: l blends
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw
+o a i u e
+c d g m l  t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf -lk -lp
+#Concept 39 Consonant Blends: -mp, -nch, -nd, -sk, -sp
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw
+o a i u e
+c d g m l  t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf -lk -lp -mp -nch -nd -sk -sp
+#Concept 40 ng Endings (-ang, -ing, -ong, -ung)
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw
+o a i u e -ang -ing -ong -ung
+c d g m l  t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf -lk -lp -mp -nch -nd -sk -sp 
+#Concept 41 nk Endings (-ank -ink,- onk,- unk)
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw
+o a i u e -ang -ing -ong -ung -ank -ink -onk -unk 
+c d g m l  t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf -lk -lp -mp -nch -nd -sk -sp 
+#Concept 42 Suffix ed
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw
+o a i u e -ang -ing -ong -ung -ank -ink -onk -unk
+c d g m l  t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf -lk -lp -mp -nch -nd -sk -sp 
+#Concept 43 Magic e (i-e, o-e, u-e, a-e, e-e)
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw
+o a i u e -ang -ing -ong -ung -ank -ink -onk -unk
+c d g m l  t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf -lk -lp -mp -nch -nd -sk -sp 
+#Concept 44 ph (phone)
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw ph
+o a i u e -ang -ing -ong -ung -ank -ink -onk -unk
+c d g m l  t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf -lk -lp -mp -nch -nd -sk -sp 
+#Concept 45 ck (black)
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw ph
+o a i u e -ang -ing -ong -ung -ank -ink -onk -unk
+c d g m l  t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf -lk -lp -mp -nch -nd -sk -sp ck
+#Concept 46 Vowel Team ea (meat)
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw ph
+o a i u e -ang -ing -ong -ung -ank -ink -onk -unk ea
+c d g m l  t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf -lk -lp -mp -nch -nd -sk -sp ck
+#Concept 47 Vowel Team oa (soap)
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw ph
+o a i u e -ang -ing -ong -ung -ank -ink -onk -unk ea oa
+c d g m l  t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf -lk -lp -mp -nch -nd -sk -sp ck
+#Concept 48 Vowel Team ai (mail)
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw ph
+o a i u e -ang -ing -ong -ung -ank -ink -onk -unk ea oa ai
+c d g m l  t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf -lk -lp -mp -nch -nd -sk -sp ck
+#Concept 49 Vowel Team ee (tree)
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw ph
+o a i u e -ang -ing -ong -ung -ank -ink -onk -unk ea oa ai ee
+c d g m l  t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf -lk -lp -mp -nch -nd -sk -sp ck
+#Concept 50 Vowel Team ay (play)
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw ph
+o a i u e -ang -ing -ong -ung -ank -ink -onk -unk ea oa ai ee ay
+c d g m l  t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf -lk -lp -mp -nch -nd -sk -sp ck
+#Concept 51 Vowel Team oe (toe)
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw ph
+o a i u e -ang -ing -ong -ung -ank -ink -onk -unk ea oa ai ee ay oe
+c d g m l  t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf -lk -lp -mp -nch -nd -sk -sp ck
+#Concept 52 er (fern)
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw ph
+o a i u e -ang -ing -ong -ung -ank -ink -onk -unk ea oa ai ee ay oe er 
+c d g m l  t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf -lk -lp -mp -nch -nd -sk -sp ck
+#Concept 53 ir (bird)
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw ph
+o a i u e -ang -ing -ong -ung -ank -ink -onk -unk ea oa ai ee ay oe er ir
+c d g m l  t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf -lk -lp -mp -nch -nd -sk -sp ck
+#Concept 54 ur (burn)
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw ph
+o a i u e -ang -ing -ong -ung -ank -ink -onk -unk ea oa ai ee ay oe er ir ur
+c d g m l  t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf -lk -lp -mp -nch -nd -sk -sp ck
+#Concept 55 ow (clown)
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw ph
+o a i u e -ang -ing -ong -ung -ank -ink -onk -unk ea oa ai ee ay oe er ir ur ow
+c d g m l  t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf -lk -lp -mp -nch -nd -sk -sp ck
+#Concept 56 ou (cloud)
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw ph
+o a i u e -ang -ing -ong -ung -ank -ink -onk -unk ea oa ai ee ay oe er ir ur ow ou
+c d g m l  t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf -lk -lp -mp -nch -nd -sk -sp ck
+#Concept 57 igh (light)
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw ph
+o a i u e -ang -ing -ong -ung -ank -ink -onk -unk ea oa ai ee ay oe er ir ur ow ou igh
+c d g m l  t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf -lk -lp -mp -nch -nd -sk -sp ck
+#Concept 59 ar (star)
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw ph
+o a i u e -ang -ing -ong -ung -ank -ink -onk -unk ea oa ai ee ay oe er ir ur ow ou igh ar
+c d g m l  t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf -lk -lp -mp -nch -nd -sk -sp ck
+#Concept 60 or (thorn)
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw ph
+o a i u e -ang -ing -ong -ung -ank -ink -onk -unk ea oa ai ee ay oe er ir ur ow ou igh ar or
+c d g m l  t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf -lk -lp -mp -nch -nd -sk -sp ck
+#Concept 61 oo (zoo)
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw ph
+o a i u e -ang -ing -ong -ung -ank -ink -onk -unk ea oa ai ee ay oe er ir ur ow ou igh ar or oo
+c d g m l  t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf -lk -lp -mp -nch -nd -sk -sp ck
+#Concept 62 y as Vowel
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw ph
+o a i u e -ang -ing -ong -ung -ank -ink -onk -unk ea oa ai ee ay oe er ir ur ow ou igh ar or oo y
+c d g m l  t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf -lk -lp -mp -nch -nd -sk -sp ck
+#Concept 65 -dge 
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw ph
+o a i u e -ang -ing -ong -ung -ank -ink -onk -unk ea oa ai ee ay oe er ir ur ow ou igh ar or oo y
+c d g m l  t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf -lk -lp -mp -nch -nd -sk -sp ck dge
+#Concept 66 aw (straw)
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw ph
+o a i u e -ang -ing -ong -ung -ank -ink -onk -unk ea oa ai ee ay oe er ir ur ow ou igh ar or oo y aw
+c d g m l  t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf -lk -lp -mp -nch -nd -sk -sp ck aw
+#Concept 67 au (August)
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw ph
+o a i u e -ang -ing -ong -ung -ank -ink -onk -unk ea oa ai ee ay oe er ir ur ow ou igh ar or oo y aw au
+c d g m l  t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf -lk -lp -mp -nch -nd -sk -sp ck 
+#Concept 68 oi (oil)
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw ph
+o a i u e -ang -ing -ong -ung -ank -ink -onk -unk ea oa ai ee ay oe er ir ur ow ou igh ar or oo y aw au oi
+c d g m l  t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf -lk -lp -mp -nch -nd -sk -sp ck 
+#Concept 69 oy (boy)
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw ph
+o a i u e -ang -ing -ong -ung -ank -ink -onk -unk ea oa ai ee ay oe er ir ur ow ou igh ar or oo y aw au oi oy
+c d g m l  t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf -lk -lp -mp -nch -nd -sk -sp ck 
+#Concept 70 tch (catch)
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw ph
+o a i u e -ang -ing -ong -ung -ank -ink -onk -unk ea oa ai ee ay oe er ir ur ow ou igh ar or oo y aw au oi
+c d g m l  t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf -lk -lp -mp -nch -nd -sk -sp ck tch
