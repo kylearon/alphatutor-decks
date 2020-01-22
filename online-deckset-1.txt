@@ -250,3 +250,23 @@ c d g m l t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf 
 c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw ph
 o a i u e -ang -ing -ong -ung -ank -ink -onk -unk ea oa ai ee ay oe er ir ur ow ou igh ar or oo y aw au oi
 c d g m l t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf -lk -lp -mp -nch -nd -sk -sp ck tch
+#Concept 71 ew (grew and few)
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw ph
+o a i u e -ang -ing -ong -ung -ank -ink -onk -unk ea oa ai ee ay oe er ir ur ow ou igh ar or oo y aw au oi ew
+c d g m l t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf -lk -lp -mp -nch -nd -sk -sp ck tch
+#Concept 72 eu (feud and neutral)
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw ph
+o a i u e -ang -ing -ong -ung -ank -ink -onk -unk ea oa ai ee ay oe er ir ur ow ou igh ar or oo y aw au oi ew eu
+c d g m l t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf -lk -lp -mp -nch -nd -sk -sp ck tch
+#Concept 73 ei (vein and ceiling)
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw ph
+o a i u e -ang -ing -ong -ung -ank -ink -onk -unk ea oa ai ee ay oe er ir ur ow ou igh ar or oo y aw au oi ew eu ei
+c d g m l t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf -lk -lp -mp -nch -nd -sk -sp ck tch
+#Concept 74 ie (chief)
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw ph
+o a i u e -ang -ing -ong -ung -ank -ink -onk -unk ea oa ai ee ay oe er ir ur ow ou igh ar or oo y aw au oi ew eu ei ie
+c d g m l t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf -lk -lp -mp -nch -nd -sk -sp ck tch
+#Concept 75 ue (rescue and true)
+c d g m l h t j k p ch b r f n s sh th w wh y v z qu br cr fr gr pr dr tr str shr thr spr scr bl cl fl gl pl sl spl sc sk sm sn sp st squ dw sw tw ph
+o a i u e -ang -ing -ong -ung -ank -ink -onk -unk ea oa ai ee ay oe er ir ur ow ou igh ar or oo y aw au oi ew eu ei ie ue
+c d g m l t p b f n s sh th x z ff ll ss zz -ct -ft -lt -nt -pt -st -xt -ld -lf -lk -lp -mp -nch -nd -sk -sp ck tch
